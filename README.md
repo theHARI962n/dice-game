@@ -1,6 +1,6 @@
 # Dice-game
-a single player single button game.
 A fun and interactive Dicee game built with HTML, CSS, and JavaScript. Test your luck and see who wins – Player 1 or Player 2!
+a single player single button game.
 
 # Table of Contents
 
